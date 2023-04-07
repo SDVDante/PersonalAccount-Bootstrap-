@@ -1,0 +1,22 @@
+.navbar {
+  margin-bottom: 100px;
+}
+
+.card-body p {
+  font-size: 20px;
+}
+
+main {
+  width: 93%;
+  margin: auto;
+}
+
+footer .text {
+  width: 93%;
+  margin: auto;
+}
+
+.back {
+  width: 93%;
+  margin: auto;
+}
